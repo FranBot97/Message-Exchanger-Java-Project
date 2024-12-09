@@ -1,0 +1,16 @@
+[{
+  "id": 0,
+  "titolo": "Bello qua!",
+  "contenuto": "Bello questo social, mi piace :)",
+  "autore": "testUser",
+  "rewardIteration": 44,
+  "numero_voti": 0,
+  "like": 0,
+  "dislike": 0,
+  "votanti": [],
+  "likers": [],
+  "dislikers": [],
+  "numero_commenti": 0,
+  "commenti": [],
+  "commentatori": []
+}]

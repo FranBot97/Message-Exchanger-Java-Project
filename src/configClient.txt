@@ -1,0 +1,5 @@
+# Indirizzo del server
+SERVER=localhost
+
+# Porta TCP del server
+TCPPORT=1919

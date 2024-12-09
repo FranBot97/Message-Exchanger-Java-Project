@@ -1,0 +1,15 @@
+Posizionarsi da terminale nella cartella "src" e digitare:
+javac -cp lib\gson-2.8.2.jar -d bin exceptions/*.java classes/*.java rmi/*.java runnables/*.java *.java
+
+Per avviare il Sever digitare:
+java -cp lib\gson-2.8.2.jar;bin ServerMain.java
+
+Per avviare il Client digitare:
+java -cp lib\gson-2.8.2.jar;bin ClientMain.java
+
+Non sono necessari argomenti da linea di comando, tutti i valori e i parametri si trovano all’interno dei
+due file configClient.txt e configServer.txt che devono trovarsi nella stessa cartella degli
+eseguibili. In mancanza di questi verranno utilizzati i valori di default.
+
+Cancellare tutto il contenuto della cartella database prima di avviare il server se non si vogliono
+caricare i dati già in memoria

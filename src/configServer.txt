@@ -1,0 +1,34 @@
+# Indirizzo del server
+SERVER=localhost
+
+# Porta TCP del server
+TCPPORT=1919
+
+# Porta UDP del server
+UDPPORT=3333
+
+# Indirizzo di multicast
+MULTICAST=239.255.32.32
+
+# Porta di multicast
+MCASTPORT=44444
+
+# Porta del registry RMI
+REGPORT=7777
+
+# Intervallo del calcolo ricompense
+REWARD_INTERVAL=60000
+
+# Percentuale ricompensa autore
+AUTHOR_REWARD=70
+
+# Intervallo salvataggio su disco
+UPDATE_INTERVAL=120000
+
+# Timeout della socket
+TIMEOUT=0
+
+# Dimensione threadpool
+THREADPOOL_SIZE=10
+
+

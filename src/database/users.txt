@@ -1,0 +1,41 @@
+[{
+  "username": "testUser",
+  "blog": [
+    0
+  ],
+  "tags": [
+    "sport",
+    "giochi",
+    "animali"
+  ],
+  "following": [],
+  "followers": [],
+  "wallet": {
+    "saldo": 0.0,
+    "movimenti": []
+  }
+},{
+  "username": "testUser2",
+  "blog": [],
+  "tags": [
+    "sport",
+    "giochi",
+    "cinema"
+  ],
+  "following": [],
+  "followers": [],
+  "wallet": {
+    "saldo": 0.0,
+    "movimenti": []
+  }
+},{
+  "username": "testUser3",
+  "blog": [],
+  "tags": [],
+  "following": [],
+  "followers": [],
+  "wallet": {
+    "saldo": 0.0,
+    "movimenti": []
+  }
+}]
